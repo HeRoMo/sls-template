@@ -1,0 +1,24 @@
+{
+  "name": "sls-template",
+  "version": "0.1.0",
+  "description": "Serverless Framework application template",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeRoMo/sls-template.git"
+  },
+  "keywords": [
+    "javascript",
+    "serverless",
+    "lambda"
+  ],
+  "author": "HeRoMo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeRoMo/sls-template/issues"
+  },
+  "homepage": "https://github.com/HeRoMo/sls-template#readme"
+}
