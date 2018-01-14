@@ -1,13 +1,13 @@
 # Serverless Framework template for AWS
 
 This is a Serverless app framework for AWS.
-This supports modern Javascript syntax, ex) async/await.
+This supports modern JavaScript syntax, ex) async/await.
 
 This uses the [serverless-webpack](https://www.npmjs.com/package/serverless-webpack) plugin and [Babel](https://babeljs.io/). It supports:
 
 ## Futures
 
-- Modern Javascript syntax in your Lambda functions
+- Modern JavaScript syntax in your Lambda functions
   - ES2015 style syntax
   - support async/await
 
