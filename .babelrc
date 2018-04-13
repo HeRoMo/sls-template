@@ -1,16 +1,13 @@
 {
-  "plugins": ["source-map-support", "transform-object-rest-spread",
-    ["transform-runtime", {
-      "helpers": false,
-      "polyfill": false,
-      "regenerator": true,
-      "moduleName": "babel-runtime"
-    }]],
+  "comments": false,
   "presets": [
     ["env", {
       "targets": {
         "node": "8.10"
       }
     }]
+  ],
+  "plugins": [
+    "source-map-support"
   ]
 }
